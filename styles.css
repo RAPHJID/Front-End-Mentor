@@ -83,3 +83,7 @@ button{
 .button3{
     color: hsl(179, 100%, 13%);
 }
+.attribution{
+    margin-top: 20px;
+    font-size: larger;
+}
